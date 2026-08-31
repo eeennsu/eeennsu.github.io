@@ -1,3 +1,13 @@
+- name: rn-upgrade-kit
+  descriptionList:
+    - Claude Code plugin that audits Android/iOS native policy deadlines and library versions, then rehearses the React Native upgrade
+  githubLink: https://github.com/eeennsu/rn-upgrade-kit
+  tools:
+    - Claude Code Plugin
+    - React Native
+    - Node.js
+    - Bash
+
 - name: thinkit
   descriptionList:
     - Claude Code plugin that scaffolds a repo's harness and audits it against the same rules
@@ -58,18 +68,6 @@
     - Tailwind CSS
     - Zustand
     - TanStack Query
-
-- name: Eunimation
-  descriptionList:
-    - Animation recommendation site
-  githubLink: https://github.com/eeennsu/nextjs-animation-app
-  siteLink: https://eunimation.eunsu.pro/
-  tools:
-    - Next.js
-    - TypeScript
-    - Tailwind CSS
-    - Framer Motion
-    - Zustand
 
 - name: Eunsuread
   descriptionList:

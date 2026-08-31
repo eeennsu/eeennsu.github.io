@@ -1,3 +1,13 @@
+- name: rn-upgrade-kit
+  descriptionList:
+    - Android/iOS 네이티브 정책 기한과 라이브러리 버전을 점검해 React Native 업그레이드를 리허설하는 Claude Code 플러그인
+  githubLink: https://github.com/eeennsu/rn-upgrade-kit
+  tools:
+    - Claude Code Plugin
+    - React Native
+    - Node.js
+    - Bash
+
 - name: thinkit
   descriptionList:
     - 레포 하네스를 세팅하고 같은 기준으로 감사하는 Claude Code 플러그인
@@ -58,18 +68,6 @@
     - Tailwind CSS
     - Zustand
     - TanStack Query
-
-- name: Eunimation
-  descriptionList:
-    - 애니메이션 추천 사이트
-  githubLink: https://github.com/eeennsu/nextjs-animation-app
-  siteLink: https://eunimation.eunsu.pro/
-  tools:
-    - Next.js
-    - TypeScript
-    - Tailwind CSS
-    - Framer Motion
-    - Zustand
 
 - name: Eunsuread
   descriptionList:
